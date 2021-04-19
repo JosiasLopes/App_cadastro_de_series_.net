@@ -1,0 +1,16 @@
+C:\Users\Adriano\Documents\BOOTCAMPGFT\BOOTSTART\.NET+C#\console_series\series\bin\Debug\net5.0\series.exe
+C:\Users\Adriano\Documents\BOOTCAMPGFT\BOOTSTART\.NET+C#\console_series\series\bin\Debug\net5.0\series.deps.json
+C:\Users\Adriano\Documents\BOOTCAMPGFT\BOOTSTART\.NET+C#\console_series\series\bin\Debug\net5.0\series.runtimeconfig.json
+C:\Users\Adriano\Documents\BOOTCAMPGFT\BOOTSTART\.NET+C#\console_series\series\bin\Debug\net5.0\series.runtimeconfig.dev.json
+C:\Users\Adriano\Documents\BOOTCAMPGFT\BOOTSTART\.NET+C#\console_series\series\bin\Debug\net5.0\series.dll
+C:\Users\Adriano\Documents\BOOTCAMPGFT\BOOTSTART\.NET+C#\console_series\series\bin\Debug\net5.0\ref\series.dll
+C:\Users\Adriano\Documents\BOOTCAMPGFT\BOOTSTART\.NET+C#\console_series\series\bin\Debug\net5.0\series.pdb
+C:\Users\Adriano\Documents\BOOTCAMPGFT\BOOTSTART\.NET+C#\console_series\series\obj\Debug\net5.0\series.csprojAssemblyReference.cache
+C:\Users\Adriano\Documents\BOOTCAMPGFT\BOOTSTART\.NET+C#\console_series\series\obj\Debug\net5.0\series.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Adriano\Documents\BOOTCAMPGFT\BOOTSTART\.NET+C#\console_series\series\obj\Debug\net5.0\series.AssemblyInfoInputs.cache
+C:\Users\Adriano\Documents\BOOTCAMPGFT\BOOTSTART\.NET+C#\console_series\series\obj\Debug\net5.0\series.AssemblyInfo.cs
+C:\Users\Adriano\Documents\BOOTCAMPGFT\BOOTSTART\.NET+C#\console_series\series\obj\Debug\net5.0\series.csproj.CoreCompileInputs.cache
+C:\Users\Adriano\Documents\BOOTCAMPGFT\BOOTSTART\.NET+C#\console_series\series\obj\Debug\net5.0\series.dll
+C:\Users\Adriano\Documents\BOOTCAMPGFT\BOOTSTART\.NET+C#\console_series\series\obj\Debug\net5.0\ref\series.dll
+C:\Users\Adriano\Documents\BOOTCAMPGFT\BOOTSTART\.NET+C#\console_series\series\obj\Debug\net5.0\series.pdb
+C:\Users\Adriano\Documents\BOOTCAMPGFT\BOOTSTART\.NET+C#\console_series\series\obj\Debug\net5.0\series.genruntimeconfig.cache
